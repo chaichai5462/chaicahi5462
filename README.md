@@ -8,7 +8,7 @@ Currently preparing for GSoC 2026 — building medical imaging + ML projects and
 - 🌱 Learning: PyTorch, OpenCV, Dataloaders, Model deployment
 - 👯 Looking to contribute: Medical imaging, PyTorch ecosystems, OpenCV
 - 💬 Ask me about: C++, Python, ML basics, Git & GitHub
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: chaichai5462@gmail.com
 
 ## Pinned projects
 - gsoc-journey — roadmap & progress tracker for GSoC 2026
